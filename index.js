@@ -12,5 +12,5 @@ function destructivelyPrependKitten() {
 }
 
 function destructivelyRemoveLastKitten() {
-  
+
 }
