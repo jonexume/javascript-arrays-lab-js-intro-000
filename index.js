@@ -26,6 +26,7 @@ return kittens;
 }
 
 function appendKitten(name) {
+  var kittens = ["Milo", "Otis", "Garfield"];
 kittens.push("Broom");
 return kittens;
 }
